@@ -1,7 +1,7 @@
 PageBolt Theme Quickstart (1.0)
 =========================
 
-Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing one page theme designed for developers, and editors, looking for the next big thing in content management. Moreover, PageBolt is one of the first commercial modern themes available for either platform! And they're fun to use! PageBolt is available for Pagekit, Bolt v2 and HTML5.
+Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing one page theme designed for developers, and editors, looking for the next big thing in content management. Moreover, PageBolt is one of the first commercial modern themes available for either platform! And they're fun to use. The PageBolt one-pager theme is available for Pagekit, Bolt v2 and HTML5.
 
 **Features at a Glance:**
 
