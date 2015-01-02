@@ -95,7 +95,7 @@ Once the installation was successful you can log into Pagekit's control panel vi
 Step 6: Template Sections
 ---------------
 
-All template sections, which are rendered with Razr templating, are all controlled via **'Widgets'**. For your customization, the PageBolt theme is directly accessible in Pagekit's **'themes'** directory. PageBolt's core theme template for Pagekit is located at **themes/pagebolt/templates/template.razr**. Visit the Pagekit website for more information on themes - http://www.pagekit.com/docs/themes
+All template sections, which are rendered with the **Razr** template engine, are controlled via Pagekit **'Widgets'**. For your customization, the PageBolt theme is directly accessible in Pagekit's **'themes'** directory. PageBolt's core theme template for Pagekit is located at **themes/pagebolt/templates/template.razr**. Visit the Pagekit website for more information on themes - http://www.pagekit.com/docs/themes
 
 Learn more about Razr - https://github.com/pagekit/razr
 
