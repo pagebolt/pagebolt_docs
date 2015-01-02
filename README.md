@@ -66,7 +66,7 @@ The Pagekit installation files are located in the **'pagebolt-files'** folder. I
 Step 4: Edit Config
 ---------------
 
-Pagekit's configuration options are stored inside the config.php file, which is located in the Pagekit root folder (**pagebolt-files**). Here you will find the database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
+Pagekit's configuration options are stored inside the **config.php** file, which is located in the Pagekit root folder (**pagebolt-files**). Here you will find the database credentials. Replace **DBNAME**, **USERNAME** and **PASSWORD** accordingly.
 
 ```php
 'database' => [
@@ -166,7 +166,7 @@ The Bolt installation files are located in the **'pagebolt-files'** folder. It i
 Step 4: Edit Config
 ---------------
 
-Bolt uses YAML files for all configuration including content types. Bolt's database configuration is stored in **app/config/config.yml**, which is located in Bolt's /app folder (**pagebolt-files**). Here you will find the default database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
+Bolt uses YAML files for all configuration including content types. Bolt's database configuration is stored in **app/config/config.yml**, which is located in Bolt's /app folder (**pagebolt-files**). Here you will find the default database credentials. Replace **DBNAME**, **USERNAME** and **PASSWORD** accordingly.
 
 ```yml
 database:
