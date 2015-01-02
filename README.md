@@ -184,7 +184,7 @@ Once the installation was successful you can log into Bolt's control panel via t
 
 **IMPORTANT**: Be sure to change the theme's default username, password and email!!
 
-Step 6: Template Content Types
+Step 6: Content Types
 ---------------
 
 All Bolt template content types, which are rendered via the Twig templating engine, are all controlled by Twig template files located in **theme/pagebolt-bolt** folder. The key file is **theme/pagebolt-bolt/index.twig**, which includes the header and footer sections.
