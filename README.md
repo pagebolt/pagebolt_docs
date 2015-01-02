@@ -130,9 +130,7 @@ Learn more about Razr - https://github.com/pagekit/razr
   ],
 ```
 
-##Pagekit installation is now complete!
-
---
+**Yay! Pagekit installation is now complete!**
 
 Bolt v2 Installation
 ==============
@@ -314,9 +312,7 @@ features:
   recordsperpage: 20
 ```
 
-##Bolt installation is now complete!
-
---
+**Yay! Bolt installation is now complete.**
 
 References
 ===============
