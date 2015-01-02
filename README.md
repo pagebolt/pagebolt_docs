@@ -62,7 +62,7 @@ Be sure to take note of database username and password.
 Step 3: Upload Files
 ---------------
 
-The Pagekit installation files are located in the **'pagekit-files'** folder. It is necessary to apply the recommended file permissions and server instructions via Pagekit's website here - http://www.pagekit.com/docs/troubleshooting
+The Pagekit installation files are located in the **'pagebolt-files'** folder. It is necessary to apply the recommended file permissions and server instructions via Pagekit's website here - http://www.pagekit.com/docs/troubleshooting
 
 
 Step 4: Edit Config
@@ -140,9 +140,9 @@ Step 1: Folder Structure
 ---------------
 
 ```
--PageBolt_Pagekit
+-PageBolt_Boltv2
 --pagebolt-docs (Quickstart)
---pagebolt-files (Pagekit)
+--pagebolt-files (Bolt)
 --pagebolt-sql (SQL)
 ```
 
@@ -151,14 +151,14 @@ Step 2: Create Database
 
 Create a database (the default username, password and dbname is 'pagebolt').
 
-Import the included database file (**pagebolt-db.sql**) located in the 'pagebolt-sql' folder.
+Import the included database file (**pagebolt-boltdb.sql**) located in the 'pagebolt-sql' folder.
 
 Be sure to take note of database username and password.
 
 Step 3: Upload Files
 ---------------
 
-The Pagekit installation files are located in the **'pagekit-files'** folder. It is necessary to apply the recommended file permissions and server instructions via Pagekit's website here - http://www.pagekit.com/docs/troubleshooting
+The Bolt installation files are located in the **'pagebolt-files'** folder. It is necessary to apply the recommended file permissions and server instructions via Pagekit's website here - http://www.pagekit.com/docs/troubleshooting
 
 
 Step 4: Edit Config
