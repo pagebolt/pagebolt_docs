@@ -38,6 +38,8 @@ Pagekit Installation
 Step 1: Folder Structure
 ---------------
 
+After downloading and unzipping the package to your local server (i.e. WAMP, XAMPP, Vagrant), take a look at the folder structure.
+
 ```
 -PageBolt_Pagekit
 --pagebolt-docs (Quickstart)
@@ -135,6 +137,8 @@ Bolt v2 Installation
 
 Step 1: Folder Structure
 ---------------
+
+After downloading and unzipping the package to your local server (i.e. WAMP, XAMPP, Vagrant), take a look at the folder structure.
 
 ```
 -PageBolt_Boltv2
