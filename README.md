@@ -49,6 +49,8 @@ Step 1: Folder Structure
 --pagebolt-sql (SQL)
 ```
 
+General
+
 Step 2: Create Database
 ---------------
 
