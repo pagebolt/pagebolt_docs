@@ -34,8 +34,7 @@ Pagekit and Bolt, two of the most advanced CMS frameworks on the planet, are our
 
 *Current version: [v1.0]*
 
---
-====
+
 
 Pagekit Installation
 ===============
@@ -135,10 +134,10 @@ Learn more about Razr - https://github.com/pagekit/razr
 
 ##Pagekit installation is now complete! Have Fun ;)
 
---
+
 
 Bolt v2 Installation
-===============
+==============
 
 Step 1: Folder Structure
 ---------------
