@@ -23,6 +23,7 @@ Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing on
 + PHP Version 5.4+
 
 **Links:**
+
 * **Pagekit Demo:** http://www.pagebolt.io/
 * **Bolt Demo:** http://bolt.pagebolt.io/
 * **HTML5 Demo:** http://html5.pagebolt.io/
