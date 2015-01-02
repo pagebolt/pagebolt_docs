@@ -95,11 +95,11 @@ Once the installation was successful you can log into Pagekit's control panel vi
 Step 6: Template Sections
 ---------------
 
-All template sections, which are rendered with the **Razr** template engine, are controlled via Pagekit **'Widgets'**. For your customization, the PageBolt theme is directly accessible in Pagekit's **'themes'** directory. PageBolt's core theme template for Pagekit is located at **themes/pagebolt/templates/template.razr**. Visit the Pagekit website for more information on themes - http://www.pagekit.com/docs/themes
+All template sections, which are rendered with the **Razr** template engine, are controlled via the Pagekit **'Widgets'**. For your customization, the PageBolt theme is directly accessible in Pagekit's **'themes'** directory. PageBolt's core theme template for Pagekit is located at **themes/pagebolt/templates/template.razr**. Visit the Pagekit website for more information on themes - http://www.pagekit.com/docs/themes
 
 Learn more about Razr - https://github.com/pagekit/razr
 
-**NOTE:** The 'Terms and Conditions' and 'Privacy Policy' are the only actual **'Pages'**. Pages is a Pagekit extension. Because of the simple nature of one page themes, we use **/** as the default route within Pagekit; there's no need to use Pagekit's menu system.
+**NOTE:** The 'Terms and Conditions' and 'Privacy Policy' are the only actual **'Pages'**. Pages is a Pagekit extension. Because of the simple nature of one page themes, we use **'/'** as the default route within Pagekit; there's no need to use Pagekit's menu system.
 
 **Available Sections (edit the theme.php file for custom widget areas):**
 
