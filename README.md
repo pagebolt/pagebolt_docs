@@ -12,6 +12,7 @@ Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing on
 + Dynamic Imagery via Velocity.js
 + Adaptive and Touch Ready
 + Retina Support
++ Complete Documentation
 + Quickstart Package
 + Free Updates
 + and much more!
