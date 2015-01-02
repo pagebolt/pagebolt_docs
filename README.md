@@ -129,10 +129,10 @@ All template sections, which are rendered with Razr templating, are all controll
   ],
 ```
 
-Step 7: Installation Complete! Have Fun ;)
----------------
+#Pagekit Installation is now complete! Have Fun ;)
+
 --
----------------
+====
 
 Bolt v2 Installation
 ===============
@@ -226,8 +226,9 @@ All template sections, which are rendered with Razr templating, are all controll
 ],
 ```
 
-Step 7: Installation Complete! Have Fun ;)
----------------
+#Bolt Installation is now complete! Have Fun ;)
+
+--
 
 References
 ===============
