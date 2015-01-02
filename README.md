@@ -1,9 +1,7 @@
 PageBolt Theme Quickstart (1.0)
 =========================
 
-Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing one page theme designed for developers, and editors, looking for the next big thing in content management. Moreover, PageBolt is one of the first commercial modern themes available for either platform!
-
-Pagekit and Bolt, two of the most advanced CMS frameworks on the planet, are our CMS tools of choice. And they're fun to use! Available for Pagekit, Bolt v2 and HTML5.
+Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing one page theme designed for developers, and editors, looking for the next big thing in content management. Moreover, PageBolt is one of the first commercial modern themes available for either platform! And they're fun to use! PageBolt is available for Pagekit, Bolt v2 and HTML5.
 
 **Features at a Glance:**
 
@@ -52,20 +50,20 @@ Step 2: Create Database
 
 Create a database (the default username, password and dbname is 'pagebolt').
 
-Import the included database file (**pagebolt-db.sql**) located in the 'pagebolt-sql' folder.
+Import the included database file (**pagebolt-db.sql**) located in the **'pagebolt-sql'** folder.
 
 **IMPORTANT:** Be sure to take note of database username and password.
 
 Step 3: Upload Files
 ---------------
 
-The Pagekit installation files are located in the **'pagebolt-files'** folder. It is necessary to apply the recommended file permissions and server instructions via Pagekit's website here - http://www.pagekit.com/docs/troubleshooting
+The Pagekit installation files are located in the **'pagebolt-files'** folder. It is necessary to apply the recommended file permissions and server parameters via Pagekit's website here - http://www.pagekit.com/docs/troubleshooting
 
 
 Step 4: Edit Config
 ---------------
 
-Pagekit's configuration is stored in config.php in the Pagekit root folder (**pagebolt-files**). Here you will find the database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
+Pagekit's configuration options are stored inside the config.php file, which is located in the Pagekit root folder (**pagebolt-files**). Here you will find the database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
 
 ```php
 'database' => [
@@ -150,20 +148,20 @@ Step 2: Create Database
 
 Create a database (the default username, password and dbname is 'pagebolt').
 
-Import the included database file (**pagebolt-boltdb.sql**) located in the 'pagebolt-sql' folder.
+Import the included database file (**pagebolt-boltdb.sql**) located in the **'pagebolt-sql'** folder.
 
 **IMPORTANT:** Be sure to take note of database username and password.
 
 Step 3: Upload Files
 ---------------
 
-The Bolt installation files are located in the **'pagebolt-files'** folder. It is necessary to apply the recommended file permissions and server instructions via Bolt's website here - https://docs.bolt.cm/installation
+The Bolt installation files are located in the **'pagebolt-files'** folder. It is necessary to apply the recommended file permissions and server parameters via Bolt's website here - https://docs.bolt.cm/installation
 
 
 Step 4: Edit Config
 ---------------
 
-Bolt uses YAML files for all configuration including content types. Bolt's database configuration is stored in **app/config/config.yml**, which is located in the Bolt /app folder (**pagebolt-files**). Here you will find the database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
+Bolt uses YAML files for all configuration including content types. Bolt's database configuration is stored in **app/config/config.yml**, which is located in Bolt's /app folder (**pagebolt-files**). Here you will find the default database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
 
 ```yml
 database:
