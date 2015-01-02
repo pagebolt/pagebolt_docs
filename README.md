@@ -1,9 +1,7 @@
 PageBolt Theme Quickstart (1.0)
 =========================
 
-Thank you for purchasing the PageBolt theme!
-
-PageBolt is a simple, refreshing one page theme designed for developers, and editors, looking for the next big thing in content management. Moreover, PageBolt is one of the first commercial modern themes available for either platform!
+Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing one page theme designed for developers, and editors, looking for the next big thing in content management. Moreover, PageBolt is one of the first commercial modern themes available for either platform!
 
 Pagekit and Bolt, two of the most advanced CMS frameworks on the planet, are our CMS tools of choice. And they're fun to use! Available for Pagekit, Bolt v2 and HTML5.
 
@@ -48,8 +46,6 @@ Step 1: Folder Structure
 --pagebolt-files (Pagekit)
 --pagebolt-sql (SQL)
 ```
-
-General
 
 Step 2: Create Database
 ---------------
@@ -134,9 +130,9 @@ Learn more about Razr - https://github.com/pagekit/razr
   ],
 ```
 
-##Pagekit installation is now complete! Have Fun ;)
+##Pagekit installation is now complete!
 
-
+--
 
 Bolt v2 Installation
 ==============
@@ -190,7 +186,7 @@ Once the installation was successful you can log into Bolt's control panel via t
 
 **IMPORTANT**: Be sure to change the theme's default username, password and email!!
 
-Step 6: Template Content Types via YML files
+Step 6: Template Content Types
 ---------------
 
 All Bolt template content types, which are rendered via the Twig templating engine, are all controlled by Twig template files located in **theme/pagebolt-bolt** folder. The key file is **theme/pagebolt-bolt/index.twig**, which includes the header and footer sections.
@@ -318,7 +314,7 @@ features:
   recordsperpage: 20
 ```
 
-##Bolt installation is now complete! Have Fun ;)
+##Bolt installation is now complete!
 
 --
 
