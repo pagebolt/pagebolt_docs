@@ -1,4 +1,4 @@
-PageBolt Quickstart (1.0)
+PageBolt Theme Quickstart (1.0)
 =========================
 
 Thank you for purchasing the PageBolt theme!
@@ -34,8 +34,8 @@ Pagekit and Bolt , two of the most advanced CMS frameworks on the planet, are ou
 
 *Current version: [v1.0]*
 
-----
-===============
+--
+====
 
 Pagekit Installation
 ===============
@@ -131,8 +131,9 @@ All template sections, which are rendered with Razr templating, are all controll
 
 Step 7: Installation Complete! Have Fun ;)
 ---------------
-----
-===============
+--
+---------------
+
 Bolt v2 Installation
 ===============
 
