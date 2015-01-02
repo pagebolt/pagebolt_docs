@@ -43,7 +43,7 @@ Tips for Pagekit
 
 Tips here
 
-      
+
 
 Bolt Installation
 ===============
