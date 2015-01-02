@@ -99,9 +99,9 @@ All template sections, which are rendered with the **Razr** template engine, are
 
 Learn more about Razr - https://github.com/pagekit/razr
 
-**NOTE:** The 'Terms and Conditions' and 'Privacy Policy' are the only actual 'Pages'. Because of the single nature of one page themes, we use **/** as the home page within Pagekit.
+**NOTE:** The 'Terms and Conditions' and 'Privacy Policy' are the only actual **'Pages'**. Pages is a Pagekit extension. Because of the simple nature of one page themes, we use **/** as the default route within Pagekit; there's no need to use Pagekit's menu system.
 
-**Available Sections (edit the theme.php file for custom sections):**
+**Available Sections (edit the theme.php file for custom widget areas):**
 
 
 ```php
