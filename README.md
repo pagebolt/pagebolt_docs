@@ -70,7 +70,7 @@ Step 4: Edit Config
 
 Pagekit's configuration is stored in config.php in the Pagekit root folder (**pagebolt-files**). Here you will find the database credentials. Replace DBNAME, USERNAME and PASSWORD accordingly.
 
-```
+```php
 'database' => [
     'default' => 'mysql',
     'connections' => [
@@ -102,7 +102,7 @@ All template sections, which are rendered with Razr templating, are all controll
 **Available Sections (edit the theme.php file for custom sections):**
 
 
-```
+```php
 // positions are sections in your theme where widgets can be published
 'positions' => [
       'logo'            => 'Logo',
@@ -129,10 +129,9 @@ All template sections, which are rendered with Razr templating, are all controll
   ],
 ```
 
-#Pagekit Installation is now complete! Have Fun ;)
+##Pagekit installation is now complete! Have Fun ;)
 
 --
-====
 
 Bolt v2 Installation
 ===============
@@ -226,7 +225,7 @@ All template sections, which are rendered with Razr templating, are all controll
 ],
 ```
 
-#Bolt Installation is now complete! Have Fun ;)
+##Bolt installation is now complete! Have Fun ;)
 
 --
 
