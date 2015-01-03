@@ -47,6 +47,7 @@ After downloading the package and unzipping it to your local server (i.e. WAMP, 
 --pagebolt-docs (Quickstart)
 --pagebolt-files (Pagekit)
 --pagebolt-sql (SQL)
+--pagebolt-sql (Theme)
 ```
 
 Step 2: Create Database
@@ -147,6 +148,7 @@ After downloading the package and unzipping it to your local server (i.e. WAMP, 
 --pagebolt-docs (Quickstart)
 --pagebolt-files (Bolt)
 --pagebolt-sql (SQL)
+--pagebolt-sql (Theme)
 ```
 
 Step 2: Create Database
