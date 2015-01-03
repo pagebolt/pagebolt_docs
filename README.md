@@ -21,7 +21,7 @@ Thank you for purchasing the PageBolt theme! PageBolt is a simple, refreshing on
 
 + Apache 2.2+ or Nginx
 + MySQL Server 5.1+
-+ PHP Version 5.4+
++ PHP Version 5.4+ (5.3+ for Bolt)
 
 **Links:**
 
